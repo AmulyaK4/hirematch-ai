@@ -133,10 +133,8 @@ Expected output:
 - Bonus: NumPy, TensorFlow, Power BI
 - Score: around 55-65%
 
-## Screenshots
 
-Add screenshots here after running the Streamlit app locally.
 
 ## Live Demo
 
-Live demo link: Coming soon.
+https://amulya8-hirematch-ai.hf.space
