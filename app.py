@@ -17,7 +17,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# A restrained, professional style that keeps Streamlit's native components usable.
 st.markdown(
     """
     <style>
